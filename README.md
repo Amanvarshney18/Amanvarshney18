@@ -43,7 +43,7 @@
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: Aman45varshney@gmail.com  
+- 📧 Email: Aman456varshney@gmail.com  
 - 🔗 GitHub: https://github.com/Amanvarshney18  
 - 💼 LinkedIn: https://www.linkedin.com/in/aman-varshney-766914253/  
 
